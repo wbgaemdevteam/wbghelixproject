@@ -1,1 +1,1 @@
-# wbghelixproject
+# helix-wbg-poc
